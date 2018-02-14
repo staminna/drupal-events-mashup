@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the refresher feature.
+ */
+
+include_once 'mashup.features.inc';
